@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.grid {
+    margin: 12px;
+    height: 250px;
+    width: 250px;
+    display: grid;
+    /* grid-template-columns: repeat(16,1fr); */
+    border: 1px solid black;
+}
+
+/* .cell {
+    border: 1px solid black;
+} */
+
+
+
